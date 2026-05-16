@@ -46,10 +46,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 0 10px;" />
   </a>
 </p>
-
-### Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Recket22&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Estadísticas de Recket22" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Recket22&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Lenguajes principales" height="150" />
-</p>
