@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <i>Construyendo interfaces de usuario web modernas y dinámicas.</i>
+  <i>Construyendo soluciones de software modernas, seguras y eficientes.</i>
 </div>
 
 <br/>
@@ -21,28 +21,47 @@
 
 ### Sobre mí
 
-> Desarrollador en formación y apasionado por la tecnología.
+> Desarrollador en formación con un enfoque integral en la creación de soluciones tecnológicas.
 
-- Actualmente aprendiendo y perfeccionando mis habilidades enfocadas en el frontend.
-- Mi objetivo principal es aprender a construir aplicaciones web eficientes con un gran diseño y experiencia de usuario.
-- En este repositorio encontrarás todas mis prácticas, retos de código y proyectos.
+- **Desarrollo de Software:** Perfeccionando habilidades en el ecosistema **Frontend** (HTML, CSS, JS), además de tener conocimientos sólidos en lenguajes de propósito general como **Python** y **C++**.
+- **Sistemas y Ciberseguridad:** Experiencia en entornos basados en Linux, operando específicamente con **Kali Linux** para tareas de análisis, redes y seguridad.
+- **Objetivos:** Aplicar las mejores prácticas de código limpio y ciberseguridad para construir aplicaciones robustas con un diseño excepcional.
+- En este espacio encontrarás mis proyectos, prácticas de desarrollo y retos técnicos.
 
 ### Tecnologías y Herramientas
 
+<br/>
+
 <p align="center">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55" style="margin: 0 10px;" />
+  <!-- Lenguajes de Programación y Frontend -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" style="margin: 0 15px;" />
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55" style="margin: 0 10px;" />
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" style="margin: 0 15px;" />
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 0 15px;" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55" style="margin: 0 15px;" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55" style="margin: 0 15px;" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <!-- Sistemas Operativos y Herramientas -->
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kalilinux/268BCC" alt="Kali Linux" width="45" height="45" style="margin: 0 15px;" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45" style="margin: 0 15px;" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45" style="margin: 0 15px;" />
   </a>
 </p>
